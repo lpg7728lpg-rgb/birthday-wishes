@@ -115,7 +115,7 @@ export const HeartfeltLetter: React.FC<HeartfeltLetterProps> = ({ data, isAdmin,
               </div>
 
               <div className="text-[10px] tracking-wider text-[#A58D8D] font-light uppercase font-mono italic">
-                Strictly for Ananya's eyes only ❤️
+                Strictly for Nita's eyes only ❤️
               </div>
             </motion.div>
           ) : (
