@@ -14,9 +14,9 @@ interface HeroProps {
 }
 
 export const Hero: React.FC<HeroProps> = ({
-  sisterName = "Ananya",
-  birthdayDate = "2026-06-18T00:00:00.000Z",
-  heroHeading = "Happy Birthday To My Amazing Sister",
+  sisterName = "Nita",
+  birthdayDate = "2026-06-26T00:00:00.000Z",
+  heroHeading = "Happy Birthday To My Amazing Sister ",
   heroSubtitle = "You are the warmth of my life, the keeper of my secrets, and my best friend forever.",
   heroMedia = "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=2070",
   onOpenMemories,
