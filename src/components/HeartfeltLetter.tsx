@@ -38,24 +38,6 @@ export const HeartfeltLetter: React.FC<HeartfeltLetterProps> = ({ data, isAdmin,
   };
 
   // Cursive typewriter writing reveal effect
-  useEffect(() => {
-    if (!isOpen || isEditing) return;
-    
-    let index = 0;
-    const speed = 15; // writing speed in ms
-    const originalText = data.content;
-    setTypedContent("");
-
-    const interval = setInterval(() => {
-      setTypedContent((prev) => prev + originalText.charAt(index));
-      index++;
-      if (index >= originalText.length) {
-        clearInterval(interval);
-      }
-    }, speed);
-
-    return () => clearInterval(interval);
-  }, [isOpen, isEditing, data.content]);
 
   // Handle local edits
   const handleFieldChange = (field: keyof LetterData, value: any) => {
