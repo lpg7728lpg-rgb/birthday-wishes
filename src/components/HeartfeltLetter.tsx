@@ -21,7 +21,7 @@ interface HeartfeltLetterProps {
 export const HeartfeltLetter: React.FC<HeartfeltLetterProps> = ({ data, isAdmin, onUpdate }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
-  const [typedContent, setTypedContent] = useState("");
+  
   const { playTrack, tracks, userInteraction } = useAudio();
 
   // Handle opening envelope
@@ -184,10 +184,8 @@ export const HeartfeltLetter: React.FC<HeartfeltLetterProps> = ({ data, isAdmin,
               ) : (
                 <div className="font-serif text-[#4A3525] text-base md:text-lg font-light leading-relaxed text-left max-w-xl mx-auto whitespace-pre-wrap min-h-[220px] select-text">
                   {/* Typed typewriter reveal wrapper */}
-                  {typedContent}
-                  {typedContent.length < data.content.length && (
-                    <span className="w-1.5 h-4 inline-block bg-[#B76E79] ml-0.5 animate-pulse"></span>
-                  )}
+                  {data.content}
+                  
                 </div>
               )}
 
