@@ -263,14 +263,14 @@ export default function Home() {
             <div className="flex items-center gap-1.5 mb-4">
               <Heart size={16} className="text-[#B76E79] fill-[#B76E79] animate-[heartbeat_1.5s_infinite]" />
               <span className="font-serif-luxury text-sm tracking-widest text-[#3D0C11]/90">
-                Celebrating Ananya
+                Celebrating Nita
               </span>
             </div>
             <p className="text-[10px] uppercase tracking-widest text-slate-400 font-sans leading-relaxed">
               Crafted with unconditional love & cherished family memories.
             </p>
             <p className="text-[9px] text-slate-400 font-sans mt-2">
-              © {new Date().getFullYear()} Happy Birthday Ananya. All Rights Reserved.
+              © {new Date().getFullYear()} Happy Birthday Nita. All Rights Reserved.
             </p>
           </footer>
 
