@@ -1,0 +1,142 @@
+{
+  "config": {
+    "sisterName": "Ananya",
+    "birthdayDate": "2026-06-18T00:00:00.000Z",
+    "introText": "To The Most Beautiful Sister ❤️",
+    "heroHeading": "Happy Birthday To My Amazing Sister",
+    "heroSubtitle": "You are the warmth of my life, the keeper of my secrets, and my best friend forever.",
+    "heroMedia": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=2070",
+    "themeColor": "rose-gold",
+    "adminPasscode": "1111"
+  },
+  "music": [
+    {
+      "id": "music-1",
+      "name": "Soft Romantic Piano",
+      "artist": "Classical Ambient",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "isDefault": true
+    },
+    {
+      "id": "music-2",
+      "name": "Emotional Cello Melody",
+      "artist": "Cinematic Orchestral",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "isDefault": false
+    },
+    {
+      "id": "music-3",
+      "name": "Whispering Autumn Wind",
+      "artist": "Soft Instrumental",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "isDefault": false
+    }
+  ],
+  "letter": {
+    "title": "To My Dearest Sister",
+    "content": "Ananya,\n\nFrom our childhood giggles and late-night secrets to navigating life's ups and downs together, you have been my constant anchor. \n\nYou possess a rare beauty that radiates from within—your kindness, your gentle strength, and the effortless way you bring joy to everyone around you. No matter where life takes us, remember that my love for you is unconditional and everlasting.\n\nThank you for being the most incredible sister and the best friend I could ever ask for. Today, I celebrate you and the beautiful soul you are.\n\nHappy Birthday, my dear sister.",
+    "signOff": "Forever grateful for you, With Love.",
+    "pianoMusicEnabled": true
+  },
+  "timeline": [
+    {
+      "id": "time-1",
+      "date": "Childhood Days",
+      "title": "Our Little Adventures",
+      "description": "Remember when we used to build pillow forts in the living room and stay up past our bedtimes? Those simple days laid the foundation of our unbreakable bond.",
+      "mediaUrl": "https://images.unsplash.com/photo-1482066005782-472648fb5927?q=80&w=2012",
+      "mediaType": "image",
+      "stickers": ["heart", "butterfly"]
+    },
+    {
+      "id": "time-2",
+      "date": "School Years",
+      "title": "Always By My Side",
+      "description": "Walking home from school together, sharing lunches, and studying together. You were not just my sister; you were my constant shield and cheerleader.",
+      "mediaUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=2070",
+      "mediaType": "image",
+      "stickers": ["star"]
+    },
+    {
+      "id": "time-3",
+      "date": "Family Vacations",
+      "title": "Sunsets & Laughter",
+      "description": "Our summer trips to the hills, sitting by the campfire, and whispering under the starlit sky. The world is a much brighter place when we travel it together.",
+      "mediaUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=1974",
+      "mediaType": "image",
+      "stickers": ["flower"]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "imageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=2032",
+      "caption": "Your radiant smile lights up every room.",
+      "rotation": -3,
+      "textOverlay": "Radiant",
+      "xPosition": 5,
+      "yPosition": 10
+    },
+    {
+      "id": "gal-2",
+      "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1974",
+      "caption": "Chasing dreams and making memories.",
+      "rotation": 2,
+      "textOverlay": "Dreamer",
+      "xPosition": 10,
+      "yPosition": 80
+    },
+    {
+      "id": "gal-3",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964",
+      "caption": "Classy, elegant, and forever beautiful.",
+      "rotation": 4,
+      "textOverlay": "Grace",
+      "xPosition": 50,
+      "yPosition": 50
+    },
+    {
+      "id": "gal-4",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1974",
+      "caption": "Laughter is sweetest when shared with you.",
+      "rotation": -2,
+      "textOverlay": "Joy",
+      "xPosition": 20,
+      "yPosition": 40
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "senderName": "Mom & Dad",
+      "message": "Happy Birthday to our precious princess. We are so proud of the beautiful, compassionate woman you have become.",
+      "duration": "10s"
+    },
+    {
+      "id": "vid-2",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
+      "senderName": "Your Loving Brother",
+      "message": "Wishing you the absolute happiest of birthdays! Thank you for always keeping my secrets and guiding me like a star.",
+      "duration": "12s"
+    }
+  ],
+  "wishes": [
+    {
+      "id": "wish-1",
+      "name": "Sarah",
+      "content": "Happy Birthday Ananya! You inspire me every single day with your grace and beauty. Have the most magical year ahead!",
+      "timestamp": "2026-05-20T12:00:00.000Z",
+      "icon": "sparkles",
+      "color": "rose-gold"
+    },
+    {
+      "id": "wish-2",
+      "name": "Amit",
+      "content": "To the coolest sister ever, have an unforgettable birthday! May all your dreams and wishes come true today.",
+      "timestamp": "2026-05-20T14:30:00.000Z",
+      "icon": "heart",
+      "color": "gold"
+    }
+  ]
+}
