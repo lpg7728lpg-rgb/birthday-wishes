@@ -1,7 +1,7 @@
 {
   "config": {
-    "sisterName": "Ananya",
-    "birthdayDate": "2026-06-18T00:00:00.000Z",
+    "sisterName": "Nita didi",
+    "birthdayDate": "2026-06-26T00:00:00.000Z",
     "introText": "To The Most Beautiful Sister ❤️",
     "heroHeading": "Happy Birthday To My Amazing Sister",
     "heroSubtitle": "You are the warmth of my life, the keeper of my secrets, and my best friend forever.",
@@ -34,7 +34,7 @@
   ],
   "letter": {
     "title": "To My Dearest Sister",
-    "content": "Ananya,\n\nFrom our childhood giggles and late-night secrets to navigating life's ups and downs together, you have been my constant anchor. \n\nYou possess a rare beauty that radiates from within—your kindness, your gentle strength, and the effortless way you bring joy to everyone around you. No matter where life takes us, remember that my love for you is unconditional and everlasting.\n\nThank you for being the most incredible sister and the best friend I could ever ask for. Today, I celebrate you and the beautiful soul you are.\n\nHappy Birthday, my dear sister.",
+    "content": "Nita,\n\nFrom our childhood giggles and late-night secrets to navigating life's ups and downs together, you have been my constant anchor. \n\nYou possess a rare beauty that radiates from within—your kindness, your gentle strength, and the effortless way you bring joy to everyone around you. No matter where life takes us, remember that my love for you is unconditional and everlasting.\n\nThank you for being the most incredible sister and the best friend I could ever ask for. Today, I celebrate you and the beautiful soul you are.\n\nHappy Birthday, my dear sister.",
     "signOff": "Forever grateful for you, With Love.",
     "pianoMusicEnabled": true
   },
@@ -124,8 +124,8 @@
   "wishes": [
     {
       "id": "wish-1",
-      "name": "Sarah",
-      "content": "Happy Birthday Ananya! You inspire me every single day with your grace and beauty. Have the most magical year ahead!",
+      "name": "ankit",
+      "content": "Happy Birthday nita didi! You inspire me every single day with your grace and beauty. Have the most magical year ahead!",
       "timestamp": "2026-05-20T12:00:00.000Z",
       "icon": "sparkles",
       "color": "rose-gold"
